@@ -1,0 +1,1 @@
+// Add optional interactions here.\nconsole.log('Static starter site loaded');\n
